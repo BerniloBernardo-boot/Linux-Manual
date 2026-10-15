@@ -1,0 +1,8 @@
+.obsidian/
+.DS_Store
+*.swp
+*~
+__pycache__/
+.venv/
+node_modules/
+dist/
